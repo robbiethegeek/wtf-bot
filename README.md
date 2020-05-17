@@ -5,8 +5,8 @@ A Flask application that powers the /wtf Slack command. Inspired by a [previous 
 ## Local development
 
 Clone this repo.
-- `$ git clone https://github.com/department-of-veterans-affairs/wtf-bot.git`
-- `$ cd /path/to/wtf-bot/`
+- `$ git clone https://github.com/robbiethegeek/wtf-bot.git`
+- `$ cd ./wtf-bot/`
 
 Create and configure virtual environment.
 - `$ python3 -m venv venv`
